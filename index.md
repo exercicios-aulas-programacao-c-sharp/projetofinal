@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# PRIMEIRO PROJETO DESENVOLVIDO EM C# #
 
-You can use the [editor on GitHub](https://github.com/DevIqcKondo/projetofinal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Logo Etec](etec.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Esse projeto é destinado a matéria de Programação de Computadores.
+> O programa contém:
+> * As quatro operações aritméticas básicas (soma, subtração, multiplicação e divisão);
+>* Exponenciação e radiciação;
+>* Bônus de outras operações.
+>
 
-### Markdown
+## _Screenshot_
+> Tela inicial do programa.
+ ![Tela inicial do programa.](inicio.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## _Dowload_
+♦ Baixe o arquivo. Descompacte na pasta desejada.🤓
+* [📥Dowload do arquivo.zip](dist/ProjetoCalculadora.zip)
 
-# Header 1
-## Header 2
-### Header 3
+---
+## Agradecimentos ##
+Agradeço aos meus professores - Diego Neri e Ermogenes Palacio - pelas aulas ministradas e pelo conhecimento que foi transmitido.
+> ![Foto do computador](eu.jpg)
 
-- Bulleted
-- List
+* [Prof.Ermogenes](https://github.com/ermogenes)
+* [Prof.Diego](https://github.com/diegoneri)
+* [Dev.Isadora](https://github.com/DevIqcKondo)
+* [Figgle](https://www.nuget.org/packages?q=FIGGLE)
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-kondo-110a65207/)](https://www.linkedin.com/in/isadora-kondo-110a65207/)
+[![Gmail Badge](https://img.shields.io/badge/-kondoiqcdev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kondoiqcdev@gmail.com)](mailto:kondoiqcdev@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@kondo_isadora-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/kondo_isadora)](https://twitter.com/kondo_isadora) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/iqckondo_/)](https://www.instagram.com/iqckondo_/)
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DevIqcKondo/projetofinal/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
